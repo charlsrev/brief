@@ -18,9 +18,9 @@
 - Quien soy
 
 
-Soy diseñador e ilustrador de experiencias. Actualmente mis trabajos se enfocan en experiencia de usuario para web, tablets y otros dispositivos. En mis tiempos libres me dedico a estudiar Arquitectura de la información y programación. Soy administrador y diseñador en Onebox Channel. (https://www.facebook.com/onebox.channel/?ref=aymt_homepage_panel)
+Soy diseñador e ilustrador de experiencias. Actualmente mis trabajos se enfocan en experiencia de usuario para web, tablets y otros dispositivos. En mis tiempos libres me dedico a estudiar y participar de comunidades locales.
 
-Me gustan los videojuegos desde su arte conceptual hasta su complejidad lógica. Estoy trabajando en algunos proyectos ligados a esta área. Me gusta viajar y aprender otros idiomas.
+Me gusta viajar y aprender otros idiomas.
 
 
 - Que manejo
@@ -30,12 +30,12 @@ Ilustración, diseño web, Diseño mobile, responsive design, ux/ui, frontend (h
 
 - Work tools!
 
-Adobe Photoshop, Adobe Illustrator, Sketch App, Adobe Indesign, Adobe Premiere, Sketchbook pro, Wordpress, Sublime text, github.
+Adobe Photoshop, Adobe Illustrator,Adobe XD, Sketch, Adobe Indesign, Adobe, Sketchbook pro, Sublime text, Invision App, Marvel App, github.
 
 - Que quiero
 
 
-Trabajar en el extranjero en algún estudio de videojuegos. Tener mi propio estudio de videojuegos. Tener mi tienda geek.
+Integrar Equipos UX / Devops Jóvenes pero con aspiraciones globales. Me interesa ganar experiencia en proyectos reales con enfoque al usuario conociendo los objetivos del negocio.
 
 
 
@@ -47,7 +47,7 @@ _______________
 
 - Facebook:https://www.facebook.com/charlzrev
 - Twitter:https://twitter.com/sanmartineme
-- Linkedin: https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile
+- Linkedin: https://www.linkedin.com/in/sanmartineme/
 - Behance: https://www.behance.net/charlzsanmartin
 - Github:https://github.com/charlsrev
 
