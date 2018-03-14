@@ -26,7 +26,7 @@ Me gusta viajar y aprender otros idiomas.
 - Que manejo
 
 
-Ilustración, diseño web, Diseño mobile, responsive design, ux/ui, frontend (html / css), Git workflow, trello.
+Ilustración, diseño web, Diseño mobile, responsive design, ux/ui, frontend (html / css / JS), Git workflow, trello.
 
 - Work tools!
 
